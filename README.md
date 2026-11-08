@@ -19,6 +19,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/bruceaime/My-Database-Journey/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/bruceaime/My-Database-Journey/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/bruceaime/My-Database-Journey/tree/master/1193-monthly-transactions-i) |
+| [1251-average-selling-price](https://github.com/bruceaime/My-Database-Journey/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/bruceaime/My-Database-Journey/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/bruceaime/My-Database-Journey/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bruceaime/My-Database-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
